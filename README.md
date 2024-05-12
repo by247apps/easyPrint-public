@@ -1,6 +1,8 @@
 # easyPrint
 An desktop client for creating shipping documents like labels and more for your Shopify orders.
 
+## [Downloads - Latest Version](https://github.com/by247apps/easyPrint-public/releases/latest)
+
 ## Supported Shopify Apps
 * [easyDHL](https://apps.shopify.com/easydhl?locale=de)
 * [easyDPD](https://apps.shopify.com/dpd-versand-services?locale=de)
